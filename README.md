@@ -40,8 +40,8 @@ It classifies facial expressions into:
 
 ## 📊 Model Training
 - Model training and preprocessing steps are available in:
-`Emotion_detection.ipynb`
-`Detection.ipynb`
+* `Emotion_detection.ipynb`
+* `Detection.ipynb`
 
 ---
 
