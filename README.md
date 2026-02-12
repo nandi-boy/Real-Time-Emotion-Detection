@@ -35,3 +35,17 @@ It classifies facial expressions into:
 - Notebooks/ Training & testing notebooks
 - Haarcascade/ Face detection XML
 - Src/ Real-time detection script
+
+---
+
+## 📊 Model Training
+- Model training and preprocessing steps are available in:
+`Emotion_detection.ipynb`
+`Detection.ipynb`
+
+---
+
+## 👨‍💻 Author
+- Ayan Nandi
+
+---
