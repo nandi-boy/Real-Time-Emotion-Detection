@@ -1,6 +1,6 @@
-# 🎭 Real-Time Emotion Detection using Deep Learning
+# 🎭 Real Time Emotion Detection using Deep Learning
 
-This project performs **real-time facial emotion detection** using a webcam and a trained deep learning model.
+This project performs **real time facial emotion detection** using a webcam and a trained deep learning model.
 It classifies facial expressions into:
 
 - 😄 Happy
