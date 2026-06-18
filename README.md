@@ -21,7 +21,8 @@ It classifies facial expressions into:
 
 ## 🧠 Technologies Used
 - Python
-- TensorFlow / Keras
+- TensorFlow
+-  Keras
 - OpenCV
 - NumPy
 - Matplotlib
